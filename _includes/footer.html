@@ -15,7 +15,6 @@
         {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -23,6 +22,20 @@
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
       {% endif %}
+
+      <p>
+        <a href="https://uni-tuebingen.de">
+          <img src="/assets/logo/uni-tuebingen.pdf" alt="University of Tübingen" height=75>
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/">
+          <img src="/assets/logo/ml-science.png" alt="Cluster of Excellence Machine Learning in Science" height=75>
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://tuebingen.ai">
+          <img src="/assets/logo/ai-center.svg" alt="AI Center Tübingen" height=75>
+        </a>
+      </p>
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
@@ -38,8 +51,9 @@
 
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
+        &copy; {{ site.time | date: '%Y' }}, 
         Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>.
       </p>{% endunless %}
       </div>
     </div>
