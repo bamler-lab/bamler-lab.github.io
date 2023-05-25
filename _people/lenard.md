@@ -16,7 +16,7 @@ title: Lenard Rommel
 }
 </style>
 <span>
-	<img src="/assets/img/Lenny_Ausweis.png" alt="Lenard Rommel" class="profileheaderpic">
+	<img src="/assets/img/Lenny_Ausweis.png" width="200" hight="400" alt="Lenard Rommel" class="profileheaderpic">
 </span>
 
 <ul class="list-inline text-center footer-links">
