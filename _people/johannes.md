@@ -4,7 +4,7 @@ title: Johannes Zenn
 position: PhD Student
 layout: page
 picture: /assets/img/johannes.jpg
-research: Accurate and Scalable Approximate Bayesian Inference and Machine Learning in Science
+research: Flexible and Efficient Approximate Bayesian Inference and Machine Learning in Science
 ---
 
 
