@@ -7,18 +7,8 @@ research: Finite Volume Neural Networks for Climate Change
 title: Lenard Rommel
 ---
 
-<!-- Header -->
-<style>
-.profileheaderpic {
-    border-radius: 50%;
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40%;
-}
-</style>
 <span>
-	<img src="/assets/img/Lenny_Ausweis.jpg" alt="Lenard Rommel" class="profileheaderpic">
+	<img src="/assets/img/Lenny_Ausweis" alt="Lenard Rommel" class="profileheaderpic">
 </span>
 
 <ul class="list-inline text-center footer-links">
