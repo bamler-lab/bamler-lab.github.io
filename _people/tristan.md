@@ -5,6 +5,7 @@ position: PhD Student
 layout: page
 picture: /assets/img/tristan.jpg
 research: Bayesian neural networks
+---
 
 ## Contact
 email: tristan.cinquin@uni-tuebingen.de
@@ -21,5 +22,3 @@ Overall, my goal is to contribute to the development of Bayesian deep learning b
 
 Prior to the University of Tübingen, I did a Bachelor's degree in Communication Systems at EPFL and a Master's degree in Computer Science at ETH Zürich. In the conext of my master thesis, I worked with Vincent Fortuin, Alexander Immer, Max Horn and Gunnar Rätsch from ETH Zurich on applying Bayesian inference to the transformer model. 
 Before starting my PhD, I worked at Amazon as an applied research intern where I worked with Artur Bekasov and Tammo Rukat on uncertainty modeling in gradient boosting machines with applications to bandits. 
----
-
