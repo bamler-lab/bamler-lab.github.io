@@ -75,7 +75,7 @@ research: Flexible and Efficient Approximate Bayesian Inference and Machine Lear
 ## About
 
 I am a PhD student specializing in the field of probabilistic inference and deep probabilistic models.
-I joined this research group in late 2021 as a Master's student and successfully completed my Master's thesis in mid-2022 on the topic *Machine Learning for Thermodynamics: Equipping Data Driven Prediction Methods with Chemical Prior Knowledge*. 
+I joined this research group in late 2021 as a Master's student and successfully completed my Master's thesis in mid 2022 on the topic *Machine Learning for Thermodynamics: Equipping Data Driven Prediction Methods with Chemical Prior Knowledge*. 
 Since July 2022 I am a PhD student working on approximate Bayesian inference and Machine Learning for science.
 
 
