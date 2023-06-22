@@ -2,75 +2,15 @@
 name: Johannes Zenn
 title: Johannes Zenn
 position: PhD Student
-layout: page
+layout: people
 picture: /assets/img/johannes.jpg
 research: Flexible and Efficient Approximate Bayesian Inference and Machine Learning in Science
+github: https://github.com/jzenn 
+mail: johannes.zenn@uni-tuebingen.de
+twitter: https://twitter.com/johanneszenn
+homepage: https://jzenn.github.io
+googlescholar: https://scholar.google.com/citations?user=QYZmWP8AAAAJ&hl=en
 ---
-
-
-<!-- Header -->
-<style>
-.profileheaderpic {
-    border-radius: 50%;
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40%;
-}
-</style>
-<span>
-	<img src="/assets/img/johannes.jpg" alt="Johannes Zenn" class="profileheaderpic">
-</span>
-
-<ul class="list-inline text-center footer-links">
-	<li class="list-inline-item">
-	    <a href="https://jzenn.github.io" title="Website">
-	      <span class="fa-stack fa-lg" aria-hidden="true">
-	        <i class="fas fa-circle fa-stack-2x"></i>
-	        <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
-	      </span>
-	      <span class="sr-only">Website</span>
-	    </a>
-	</li>
-	<li class="list-inline-item">
-	    <a href="mailto:johannes.zenn@uni-tuebingen.de" title="Email me">
-	      <span class="fa-stack fa-lg" aria-hidden="true">
-	        <i class="fas fa-circle fa-stack-2x"></i>
-	        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
-	      </span>
-	      <span class="sr-only">Email me</span>
-		</a>
-	</li>
-	<li class="list-inline-item">
-	    <a href="https://github.com/jzenn" title="GitHub">
-	      <span class="fa-stack fa-lg" aria-hidden="true">
-	        <i class="fas fa-circle fa-stack-2x"></i>
-	        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-	      </span>
-	      <span class="sr-only">GitHub</span>
-	   </a>
-	</li>
-	<li class="list-inline-item">
-	    <a href="https://twitter.com/johanneszenn" title="Twitter">
-	      <span class="fa-stack fa-lg" aria-hidden="true">
-	        <i class="fas fa-circle fa-stack-2x"></i>
-	        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-	      </span>
-	      <span class="sr-only">Twitter</span>
-	   </a>
-	</li>
-	<li class="list-inline-item">
-	    <a href="https://scholar.google.com/citations?user=QYZmWP8AAAAJ&hl=en" title="Google Scholar">
-	      <span class="fa-stack fa-lg" aria-hidden="true">
-	        <i class="fas fa-circle fa-stack-2x"></i>
-	        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
-	      </span>
-	      <span class="sr-only">Google Scholar</span>
-	    </a>
-	</li>
-</ul>
-<!-- Header -->
-
 
 ## About
 

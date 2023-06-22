@@ -1,0 +1,79 @@
+---
+layout: page
+---
+
+<!-- Header -->
+<style>
+.profileheaderpic {
+    border-radius: 50%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+    margin-bottom: 1em;
+  	width: 40%;
+}
+</style>
+<span>
+    <img src="{{ page.picture }}" alt="{{page.name}}" class="profileheaderpic">
+</span>
+
+<ul class="list-inline text-center footer-links">
+    {% if page.homepage %}
+	<li class="list-inline-item">
+        <a href="{{ page.homepage }}" title="Website">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+	        <i class="fas fa-circle fa-stack-2x"></i>
+	        <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Website</span>
+	    </a>
+	</li>
+    {% endif %}
+    {% if page.mail %}
+	<li class="list-inline-item">
+        <a href="mailto:{{ page.mail }}" title="Email me">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+	        <i class="fas fa-circle fa-stack-2x"></i>
+	        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Email me</span>
+		</a>
+	</li>
+    {% endif %}
+    {% if page.github %}
+	<li class="list-inline-item">
+        <a href="{{ page.github }}" title="GitHub">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+	        <i class="fas fa-circle fa-stack-2x"></i>
+	        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">GitHub</span>
+	   </a>
+	</li>
+    {% endif %}
+    {% if page.twitter %}
+	<li class="list-inline-item">
+        <a href="{{ page.twitter }}" title="Twitter">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+	        <i class="fas fa-circle fa-stack-2x"></i>
+	        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Twitter</span>
+	   </a>
+	</li>
+    {% endif %}
+    {% if page.googlescholar %}
+	<li class="list-inline-item">
+        <a href="{{ page.googlescholar }}" title="Google Scholar">
+	      <span class="fa-stack fa-lg" aria-hidden="true">
+	        <i class="fas fa-circle fa-stack-2x"></i>
+	        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+	      </span>
+	      <span class="sr-only">Google Scholar</span>
+	    </a>
+	</li>
+    {% endif %}
+</ul>
+<!-- Header -->
+
+{{ content }}

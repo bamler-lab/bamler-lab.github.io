@@ -1,6 +1,6 @@
 ---
 name: Robert Bamler
-layout: page
+layout: people
 position: Professor
 title: Robert Bamler
 research: Group Leader
