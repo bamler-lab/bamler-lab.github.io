@@ -2,7 +2,7 @@
 name: Lenard Rommel
 position: Bachelor Student
 layout: people
-picture: /assets/img/Lenny_Ausweis.png
+picture: /assets/img/Lenard.png
 research: Finite Volume Neural Networks for Climate Change
 title: Lenard Rommel
 github: https://github.com/lenardrommel
