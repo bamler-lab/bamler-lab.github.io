@@ -47,6 +47,7 @@ navbar-links:
     People: "people"  
     Research: "research"
     Teaching: "teaching"
+    Reading Group: "reading_group"
     Open Positions: "open_positions"
 
 # Exclude from processing.
