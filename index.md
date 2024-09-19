@@ -5,7 +5,7 @@ title: Larobertorium
 
 ## About us
 
-We are the research group for data science and machine learning at the Cluste of Excellence "Machine Learning for Science" at University of Tübingen.
+We are the research group for data science and machine learning at the Cluster of Excellence "Machine Learning for Science" at University of Tübingen.
 
 Our group performs research at the interface of deep learning and scalable probabilistic inference methods that combine algorithmic approaches with efficient approximations.
 We work on a diverse range of applications, including uncertainty quantification, sampling, neural data and model compression, and natural sciences.
@@ -20,3 +20,4 @@ If you are interested in working or collaborating with us, please don't hesitate
 ## Website Under Construction
 
 We're currently revamping our group website, so please don't get disturbed that some obvious parts are still missing.
+(Many thanks to my student [Alexander Conzelmann](people/alex_c) for setting up the initial framework for this website!)

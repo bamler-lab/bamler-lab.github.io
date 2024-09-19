@@ -29,9 +29,9 @@ github_username:  jekyll
 
 social-network-links:
   email: robert.bamler@uni-tuebingen.de
-  github: https://github.com/bamler-lab
-  twitter: https://twitter.com/robamler
-  google-scholar: https://scholar.google.com/citations?user=LwvdNAgAAAAJ&hl=en
+  github: bamler-lab
+  twitter: robamler
+  google-scholar: citations?user=LwvdNAgAAAAJ&hl=en
 
 
 # Build settings
