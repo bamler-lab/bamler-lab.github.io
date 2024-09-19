@@ -2,16 +2,21 @@
 layout: page
 title: Larobertorium
 ---
-Put a group picture!
 
 ## About us
-We are the <groupname?> research group of the Machine Learning Cluster of Excellence at the University of Tübingen.
 
-In our group, we develop new and practical methods for approximate Bayesian Inference and other areas of Probabilistic Machine Learning. 
-We work on a diverse range of applications, including for example Variational Autoencoders, Neural Data Compression and Monte Carlo Sampling. 
+We are the research group for data science and machine learning at the Cluste of Excellence "Machine Learning for Science" at University of Tübingen.
+
+Our group performs research at the interface of deep learning and scalable probabilistic inference methods that combine algorithmic approaches with efficient approximations.
+We work on a diverse range of applications, including uncertainty quantification, sampling, neural data and model compression, and natural sciences.
 
 Our research group is headed by [Prof. Robert Bamler](https://robamler.github.io). 
 
-## Contact 
-If you are interested in working or collaborating with us, don't hesitate to visit us in Tübingen (Maria-von-Linden-Str. 6, 4th floor), 
-or write us an e-mail.
+## Contact
+
+We are located on at the 4th floor of Maria-von-Linden-Str. 6, 72076 Tübingen, Germany.
+If you are interested in working or collaborating with us, please don't hesitate to reach out to <robert.bamler@uni-tuebingen.de>.
+
+## Website Under Construction
+
+We're currently revamping our group website, so please don't get disturbed that some obvious parts are still missing.
