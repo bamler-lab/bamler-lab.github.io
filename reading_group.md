@@ -39,6 +39,7 @@ We thank ChatGPT for writing this description.
 
 | Date | Moderator | Title of Paper & Link to Paper | talks.tue | comment | reading group |
 |---|---|---|---|---|---|
+| 2024/10/21 | all participants | [Entropy-Constrained Training of Deep Neural Networks](https://arxiv.org/pdf/1812.07520) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=679) |  | <span class="compression-reading-group"/> |
 | 2024/10/10 | Robert Bamler | [Tutorial on Information Theory](../bootcamp24) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=675) | | <span class="general-reading-group"/> |
 | 2024/09/12 | all participants | Experiences and Trends at ICML 2024 | N/A | | <span class="general-reading-group"/> |
 | 2024/08/08 | Robert Bamler | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=655) |  | <span class="general-reading-group"/> |
@@ -91,4 +92,3 @@ We thank ChatGPT for writing this description.
 | 2023/03/02 | Tim Xiao | [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/pdf/2209.04836) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=333) | | <span class="general-reading-group"/> |
 | 2023/02/23 | Tristan Cinquin | [Understanding Variational Inference in Function-Space](https://arxiv.org/pdf/2011.09421.pdf) | [talks.tue](https://talks.tuebingen.ai/talks/talk/id=332) | | <span class="general-reading-group"/> |
 | 2023/02/09 | Alexander Conzelmann | [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/pdf/2203.09481.pdf) | N/A | | <span class="general-reading-group"/> |
-
