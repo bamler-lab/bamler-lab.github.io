@@ -21,3 +21,5 @@ We work on a diverse range of applications, including uncertainty quantification
 I joined University of Tübingen and the Cluster of Excellence for Machine Learning in November 2020.
 Before this, I was a postdoctoral scholar in the statistical machine learning group of UC Irvine lead by Stephan Mandt, and before that I was a machine learning researcher at Disney Research in Pittsburgh and Los Angeles.
 I received my PhD in theoretical statistical and quantum physics from University of Cologne in 2016, advised by Achim Rosch and with support from German Telekom Foundation.
+
+You can find a list of my publications on my [personal website](https://robamler.github.io/).

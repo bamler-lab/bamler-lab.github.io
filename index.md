@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Larobertorium
+picture: /assets/img/larobertorium.jpg
 ---
+
+![image](/assets/img/larobertorium.jpg)
 
 ## About us
 
@@ -17,7 +20,6 @@ Our research group is headed by [Prof. Robert Bamler](https://robamler.github.io
 We are located on at the 4th floor of Maria-von-Linden-Str. 6, 72076 Tübingen, Germany.
 If you are interested in working or collaborating with us, please don't hesitate to reach out to <robert.bamler@uni-tuebingen.de>.
 
-## Website Under Construction
+## Acknowledgements
 
-We're currently revamping our group website, so please don't get disturbed that some obvious parts are still missing.
-(Many thanks to my student [Alexander Conzelmann](people/alex_c) for setting up the initial framework for this website!)
+Many thanks to my students for setting up and maintaining this site, especially to [Alexander Conzelmann](people/alex_c), who set up the jekyll infrastructure.
