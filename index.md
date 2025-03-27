@@ -10,8 +10,9 @@ picture: /assets/img/larobertorium.jpg
 
 We are the research group for data science and machine learning at the Cluster of Excellence "Machine Learning for Science" at University of Tübingen.
 
-Our group performs research at the interface of deep learning and scalable probabilistic inference methods that combine algorithmic approaches with efficient approximations.
-We work on a diverse range of applications, including uncertainty quantification, sampling, neural data and model compression, and natural sciences.
+Our group performs research at the interface of deep generative models, scalable probabilistic inference methods, and information theory.
+We work on a diverse range of applications large language models, model compression, on-device inference in large models, and natural sciences.
+Our research combines algorithm development with analytical methods, often focusing on finding the right approximation technique to overcome given resource constraints.
 
 Our research group is headed by [Prof. Robert Bamler](https://robamler.github.io). 
 
