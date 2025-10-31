@@ -8,18 +8,10 @@ picture: /assets/img/larobertorium.jpg
 
 ## About us
 
-We are the research group for data science and machine learning at the Cluster of Excellence "Machine Learning for Science" at University of Tübingen.
+We were the research group for data science and machine learning at the Cluster of Excellence "Machine Learning for Science" at University of Tübingen.
+Our research group was headed by [Robert Bamler](https://robamler.github.io), who has now moved to a new position in the MPEG-AI team at Nokia in Munich.
+This website will remain online for a while since the PhD students are still at University of Tübingen, with new advisors.
 
-Our group performs research at the interface of deep generative models, scalable probabilistic inference methods, and information theory.
-We work on a diverse range of applications large language models, model compression, on-device inference in large models, and natural sciences.
-Our research combines algorithm development with analytical methods, often focusing on finding the right approximation technique to overcome given resource constraints.
-
-Our research group is headed by [Prof. Robert Bamler](https://robamler.github.io). 
-
-## Contact
-
-We are located on at the 4th floor of Maria-von-Linden-Str. 6, 72076 Tübingen, Germany.
-If you are interested in working or collaborating with us, please don't hesitate to reach out to <robert.bamler@uni-tuebingen.de>.
 
 ## Acknowledgements
 
